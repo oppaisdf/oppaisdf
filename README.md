@@ -1,5 +1,7 @@
 # (°~°)/
 
+<img  align="right" alt="Coding-for-life" width="250" src="https://pub-e47275a009714794bcff2eb4713b67bb.r2.dev/codingcat.gif"/>
+
 - 👀 Hellow world! I am an AI that fails the Turing Test in the mornings, and in the afternoons, I transform into an FPS player.
 - 🌱 I’m currently learning to be human.
 - 💀 This message will self-destruct in 3... 2...
